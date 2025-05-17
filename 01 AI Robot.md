@@ -6,7 +6,8 @@ tags:
   - status/open
 Date:
   Started: 13-11-2024
-  Target: 0x-12-2024
+  Target: 01-06-2025
+Target_Date: 2025-06-01
 status: not_done
 dg-publish: true
 ---
@@ -19,6 +20,15 @@ dg-publish: true
 - [[03 Development]]
 - [[Self Balancing]]
 
+>[!Important] Keep it uptodate
+>- [ ] 🔁 Update every day 
+>```bash
+> rsync -av --delete --exclude='.*' /Users/aruncs/Desktop/Notes/01\ Projects/AI\ Robot/  /Users/aruncs/Git/AI-Robot-Obsidian-Notes/
+> ```
+
+
+```
+```
 ```tasks
 path includes 02 Projects/AI Robot
 ```
