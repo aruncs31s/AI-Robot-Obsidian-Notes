@@ -417,7 +417,8 @@ while True:
 **angle tester**
 ```python
 import requests 
-url="http://192.168.31.140/setServo"
+url="http://192.168.248.254/setServo"
+import time
 ```
 ```python
 def get_pulse(val):
@@ -425,7 +426,7 @@ def get_pulse(val):
 def set_position(val,id=0):
 	req_params= {
 		"id": id,
-		"position": val
+		"angle": val
 		}
 	response = requests.get(url, params=req_params)
 	print(f"Response: {response.text}")
@@ -433,14 +434,29 @@ def set_position(val,id=0):
 ```
 ```python
 while True:
+	for i in range(0,180):
+		new_val = get_pulse(i)
+		set_position(new_val,id=1)
+		time.sleep(.1)
+	for i in range(180,1):
+		new_val = get_pulse(i)
+		set_position(new_val,id=1)
+		time.sleep(.1)
+		
+```
+```python
+while True:
 	val = int(input("Enter position"))
 	if val == 1000:
 		break;
 	new_val = get_pulse(val)
-	set_position(new_val,id=13)
+	set_position(new_val,id=1)
 	
 ```
-
+```python
+new_val = 180
+set_position(new_val,id=0)
+```
 ```python
 LL1=0
 LL2=10 

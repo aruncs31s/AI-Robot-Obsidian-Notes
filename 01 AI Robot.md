@@ -16,15 +16,26 @@ dg-publish: true
 
 - [[02 Coding]]
 - [[AI Interactive Robot]] 
-- [[Contribution]]
+- [[07 Contribution]]
 - [[03 Development]]
 - [[Self Balancing]]
 
+MAC 
 >[!Important] Keep it uptodate
 >- [x]  ✅ 2025-05-17
 >```bash
 > rsync -av --delete --exclude='.*' /Users/aruncs/Desktop/Notes/01\ Projects/AI\ Robot/  /Users/aruncs/Git/AI-Robot-Obsidian-Notes/
 > ```
+
+##### Linux
+
+>[!Important] Keep it uptodate
+>- [x]  ✅ 2025-05-17
+>```bash
+> rsync -av --delete --exclude='.*' /home/aruncs/Notes/01\ Projects/AI\ Robot/  /home/aruncs/Git/Organizations/AI-Robot-GCEK/AI-Robot-Obsidian-Notes
+> ```
+
+
 
 
 ```
@@ -37,3 +48,16 @@ path includes 02 Projects/AI Robot
 
 1. Arun CS [Github](https://github.com/aruncs31s)
 2. Sajesh Kumar U [sajeshkumaru](https://github.com/sajeshkumaru)  
+3. Amaya Pramod P V [Github](https://github.com/AmayaPramod)
+4. Saifali [Github](https://github.com/Saifali1256)
+5. Deepika Rajan [Github](https://github.com/DEEPIKARAJAN-E)
+6. Harikesh OP [Github](https://github.com/harikeshop1989)
+7. Abhaya Govind [Github](https://github.com/AbhayaGovind)
+8. Krishnasree A V [Github](Krishnasree-A-V) 
+9. Anamika pp [Github](https://github.com/isro19692004geck)
+10. Meenakshi Poyyil [Github](https://github.com/MeenakshiPoyyil)
+11. Nived Ranjith  [Github](https://github.com/orgs/AI-Robot-GCEK/people/Nivedh-r)
+12. Sangeeth Binu [Github](htttps://github.com/Sangeeth-binu)
+13. Dhanashyam Babu [Github](https://github.com/dhanashyam18)
+14. Sneha SJ [Github](https://github.com/Sneha-SJ-05)
+15. Abhinav M [Github](https://github.com/AbhinavM2005)

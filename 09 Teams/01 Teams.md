@@ -15,6 +15,10 @@ dg-publish: true
 8. Meenakshi Poyyil [Github](https://github.com/MeenakshiPoyyil)
 9. Nived Ranjith  [Github](https://github.com/orgs/AI-Robot-GCEK/people/Nivedh-r)
 10. Sangeeth Binu [Github](htttps://github.com/Sangeeth-binu)
+11. Dhanashyam Babu [Github](https://github.com/dhanashyam18)
+12. Sneha SJ [Github](https://github.com/Sneha-SJ-05)
+13. Abhinav M [Github](https://github.com/AbhinavM2005)
+
 
 ### Team Formation
 1. Hardware
@@ -30,7 +34,6 @@ Hardware part is the dificult one in this to operate becase not everyone can acc
 *This is not complet, will update soon*
 - [ ] update this 📅 2025-05-30 on completion 🏁 delete 
 #### Supporting Software for Hardware
-- [ ] update this 📅 2025-05-30 on completion 🏁 delete 
 #### AI Stuff
 - Run a voice assistant using following tools 
 	- [Live Kit](https://livekit.io/)
